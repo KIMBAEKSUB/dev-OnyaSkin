@@ -1,0 +1,12 @@
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+.md-color-white { color: aliceblue;}
+
+.icon_size_01 {
+    font-size: 1.2rem;
+    transform: translate(0px, 20%);
+    padding-right: 0.2rem;
+}
